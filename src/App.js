@@ -8,10 +8,9 @@ import SecD from "./sections/SecD";
 function App() {
     return (
         <>
-            {/* <div className={styles.App}>
-
-        <Try />
-      </div> */}
+            <div className={styles.App}>
+                <Try />
+            </div>
 
             <SecA />
             <SecB />
