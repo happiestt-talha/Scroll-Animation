@@ -1,5 +1,5 @@
-import Try from "./components/Try";
-import styles from "./App.module.css";
+// import Try from "./components/Try";
+// import styles from "./App.module.css";
 import SecA from "./sections/SecA";
 import SecB from "./sections/SecB";
 import SecC from "./sections/SecC";
@@ -8,9 +8,9 @@ import SecD from "./sections/SecD";
 function App() {
     return (
         <>
-            <div className={styles.App}>
+            {/* <div className={styles.App}>
                 <Try />
-            </div>
+            </div> */}
 
             <SecA />
             <SecB />
