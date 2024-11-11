@@ -1,11 +1,12 @@
 import React from 'react'
+import Section from '../components/Section'
 
 const SecD = () => {
     return (
         <>
-            <div>
-                <div>SecD</div>
-            </div>
+        <Section>
+            <div>SecD</div>
+        </Section>
         </>
     )
 }

@@ -1,8 +1,13 @@
 import React from 'react'
+import Section from '../components/Section'
 
 const SecC = () => {
     return (
-        <div>SecC</div>
+        <>
+            <Section>
+                <div>SecC</div>
+            </Section>
+        </>
     )
 }
 
